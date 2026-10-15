@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/django-guardian/django-guardian/commit/02465ce96c187912208f75e28d3a0b17cb1aa81b",
       "git:hexsha": "02465ce96c187912208f75e28d3a0b17cb1aa81b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T08:59:05.680926+00:00"
     },
     {
       "@id": "https://repolex.ai/r/django-guardian/django-guardian/commit/fb3738d7ead6ebf849100031bcd48f0f6719ffc4",
