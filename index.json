@@ -1,0 +1,11 @@
+{
+  "org": "django-guardian",
+  "repo": "django-guardian",
+  "versions": [
+    {
+      "commit": "02465ce96c187912208f75e28d3a0b17cb1aa81b",
+      "tag": "",
+      "parsed_at": "2026-10-15T08:59:05.681763+00:00"
+    }
+  ]
+}
